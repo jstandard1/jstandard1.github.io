@@ -60,6 +60,12 @@
   <div class="tab-content">
     <div id="business_101" class="tab-pane fade in active">
       <h2>Business 101</h2>
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <p>Some content</p>
+=======
+=======
+>>>>>>> 0640fe1fa636ba958e40ca7d1bc15e3de767ee0d
       <p>If you’ll be soon heading on a business trip to Tokyo or elsewhere in Japan, this quick guide will walk you through what you should do BEFORE you leave and what to expect when you meet and interact with your Japanese hosts.</p>
 
       <h3>Bring a Gift</h3>
@@ -109,6 +115,13 @@
         <li><b>Be comfortable with silence.</b> Silence is not nearly as terrifying to conversation in Japan as it is in Western countries where people may speak just to avoid an awkward lull in the conversation.</li>
       </ul>
 
+<<<<<<< HEAD
+>>>>>>> 2f72b6fbd5a3e1f6530994aa7b1c1d72055df3b6
+=======
+=======
+      <p>Some content</p>
+>>>>>>> b917a0bece955d6e46b8473882b971814d063229
+>>>>>>> 0640fe1fa636ba958e40ca7d1bc15e3de767ee0d
     </div>
     <div id="tokyo_essentials" class="tab-pane fade">
       <h2>Tokyo Essentials</h2>
