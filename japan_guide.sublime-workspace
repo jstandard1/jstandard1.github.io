@@ -51,7 +51,7 @@
 			"file": "content.html",
 			"settings":
 			{
-				"buffer_size": 6882,
+				"buffer_size": 6978,
 				"line_ending": "Windows"
 			}
 		},
@@ -59,7 +59,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 9483,
+				"buffer_size": 9733,
 				"line_ending": "Windows"
 			}
 		}
@@ -170,15 +170,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6882,
+						"buffer_size": 6978,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5736,
-								5736
+								0,
+								0
 							]
 						],
 						"settings":
@@ -200,15 +200,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9483,
+						"buffer_size": 9733,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4999,
-								4999
+								797,
+								797
 							]
 						],
 						"settings":
@@ -218,7 +218,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3216.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -280,12 +280,16 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 625.0,
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"C:\\Users\\Jeff\\Google Drive\\Drivemode.com\\Product\\Data analysis\\Jeff\\general_queries.sublime-project"
+			]
 		],
-		"width": 0.0
+		"width": 475.0
 	},
 	"select_symbol":
 	{
