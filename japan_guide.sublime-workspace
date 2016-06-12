@@ -48,18 +48,18 @@
 	"buffers":
 	[
 		{
-			"file": "content.html",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 6978,
+				"buffer_size": 8274,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "index.html",
+			"file": "content.html",
 			"settings":
 			{
-				"buffer_size": 9733,
+				"buffer_size": 12246,
 				"line_ending": "Windows"
 			}
 		}
@@ -100,10 +100,11 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Jeff/Dropbox/Projects/dev/japan_guide/index.html",
+		"/C/Users/Jeff/Dropbox/Projects/dev/japan_guide/content.html",
 		"/C/Users/Jeff/Google Drive/Drivemode.com/Product/Data analysis/Fundraising/fundraising_queries.sql",
 		"/C/Users/Jeff/Google Drive/Drivemode.com/Product/Data analysis/Jeff/general_queries.sublime-project",
 		"/C/Users/Jeff/AppData/Roaming/Slack/local-settings.json",
-		"/C/Users/Jeff/Dropbox/Projects/dev/japan_guide/index.html",
 		"/C/Users/Jeff/Google Drive/Drivemode.com/Product/Data analysis/Query/Active Actions/overlay_aactions_summary.sql",
 		"/D/1tmp_storage/need_sorting/BACKUP/1Projects/New SPS Screens/RESTORE_SPS_Tables.sql",
 		"/C/Users/Jeff/Google Drive/Drivemode.com/Product/Testing/Driving Detection/exported_at_1446668755665.json",
@@ -166,19 +167,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "content.html",
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6978,
+						"buffer_size": 8274,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								396,
+								396
 							]
 						],
 						"settings":
@@ -188,7 +189,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 734.0,
+						"translation.y": 4512.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -196,19 +197,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "index.html",
+					"file": "content.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9733,
+						"buffer_size": 12246,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								797,
-								797
+								11667,
+								11667
 							]
 						],
 						"settings":
@@ -218,7 +219,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 5074.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
